@@ -1,0 +1,25 @@
+{
+  "name": "sudoku",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "emotion": "^9.2.8",
+    "emotion-theming": "^9.2.6",
+    "mineral-ui": "^0.44.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-emotion": "^9.2.8",
+    "react-scripts": "1.1.5",
+    "sudoku-solver-js": "^0.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.6.0",
+    "enzyme-adapter-react-16": "^1.5.0"
+  }
+}
